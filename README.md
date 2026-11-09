@@ -156,7 +156,7 @@ The final accuracy and confusion matrix are generated when the notebook is run. 
 
 The project slides and video should be added here before final submission:
 
-- **Slides:** Add the final slides file or its share link.
+- **Slides:** [View Presentation Slides](./TITANIC%20SURVIVAL%20PREDICTION%20USING%20LOGISTIC%20REGRESSION.pdf)
 - **Project video:** Add the video link. If it is hosted on Google Drive or YouTube, check that the link can be opened by the evaluators.
 
 ## Use of AI tools
