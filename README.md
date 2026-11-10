@@ -90,14 +90,20 @@ The required packages are listed in `requirements.txt`.
 
 Open PowerShell in the project folder and run:
 
-```powershell
-git clone https://github.com/2026mcb1515-strgzr/AI_miniproject.git
-cd AI_miniproject
+```
+git clone https://github.com/2026mcb1515-strgzr/AI_miniproject.git team64-titanic-logreg
+cd team64-titanic-logreg
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 jupyter notebook titanic_survival_with_model.ipynb
 ```
+
+The last word of the `git clone` line (`team64-titanic-logreg`) is the name of the new folder.
+If git says `destination path ... already exists`, you already have a copy of this project.
+Either go into it and update it with `cd team64-titanic-logreg` followed by `git pull`,
+or choose a different folder name in both the `git clone` line and the `cd` line.
+
 
 ### Run on Linux Fedora
 
