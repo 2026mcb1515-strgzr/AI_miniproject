@@ -169,6 +169,8 @@ The final accuracy and confusion matrix are generated when the notebook is run. 
 - **The CSV file cannot be found:** Make sure you are running Jupyter from the project folder and that `Titanic-Dataset.csv` is present there.
 - **The notebook does not show updated results:** Restart the kernel and run the notebook again from the beginning.
 - **To stop Jupyter:** Press `Ctrl + C` in the terminal running the Jupyter server.
+- **pip shows a hash mismatch (`THESE PACKAGES DO NOT MATCH THE HASHES`) or a download error:** this is a network problem during the download, not a problem with the project. Run `pip cache purge`, then `pip install --no-cache-dir --retries 10 --timeout 60 -r requirements.txt`. If it keeps failing, turn off any VPN or try another network.
+- **`jupyter` is not recognized:** the install did not finish, so Jupyter was not installed. Repeat the `pip install` step until it ends with `Successfully installed`, and make sure `(venv)` shows at the start of the line.
 
 ## Presentation and project video
 
