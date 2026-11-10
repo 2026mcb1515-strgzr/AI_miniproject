@@ -99,10 +99,23 @@ pip install -r requirements.txt
 jupyter notebook titanic_survival_with_model.ipynb
 ```
 
-### Run on Linux
+### Run on Linux Fedora
 
 ```bash
 sudo apt update
+sudo apt install python3 python3-venv python3-pip git
+git clone https://github.com/2026mcb1515-strgzr/AI_miniproject.git
+cd AI_miniproject
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+jupyter notebook titanic_survival_with_model.ipynb
+```
+
+### Run on Ubuntu
+
+```bash
+sudo apt update && sudo apt update
 sudo apt install python3 python3-venv python3-pip git
 git clone https://github.com/2026mcb1515-strgzr/AI_miniproject.git
 cd AI_miniproject
