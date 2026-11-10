@@ -137,7 +137,7 @@ jupyter notebook titanic_survival_with_model.ipynb
 
 Once Jupyter opens, open `titanic_survival_with_model.ipynb`. You can run the notebook cell by cell, or select **Kernel → Restart & Run All** to execute it from the beginning.
 
-Tested on Windows (Python 3.11.9 and 3.14.6) and Fedora Linux 44 (Python 3.14.10).
+Tested on Windows (Python 3.11.9 and 3.14.6) , Fedora Linux 44 (Python 3.14.10) and Ubuntu (Python 3.14.04).
 
 ### Run the notebook from the terminal
 
