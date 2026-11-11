@@ -176,9 +176,8 @@ The final accuracy and confusion matrix are generated when the notebook is run. 
 
 
 - **Slides:** [View Presentation Slides](./TITANIC%20SURVIVAL%20PREDICTION%20USING%20LOGISTIC%20REGRESSION.pdf)
-- **Video:** 
+- **Project video:**
 [📂 Access Project Files on Google Drive](https://drive.google.com/drive/folders/1MxnKaKSOcKjpwHKA1qOy6C3gtWBL-hfz)
-- **Project video:** Add the video link. If it is hosted on Google Drive or YouTube, check that the link can be opened by the evaluators.
 
 ## Use of AI tools
 
